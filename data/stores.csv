@@ -1,0 +1,13 @@
+store_id,store_name,region,city,opened_date
+1,Chilonzor,Toshkent,Toshkent,2021-03-01
+2,Yunusobod,Toshkent,Toshkent,2021-09-15
+3,Sergeli,Toshkent,Toshkent,2022-05-10
+4,Mirzo Ulug'bek,Toshkent,Toshkent,2024-06-01
+5,Farg'ona markaz,Farg'ona,Farg'ona,2022-02-01
+6,Qo'qon,Farg'ona,Qo'qon,2022-08-20
+7,Marg'ilon,Farg'ona,Marg'ilon,2023-04-01
+8,Samarqand markaz,Samarqand,Samarqand,2021-11-01
+9,Kattaqo'rg'on,Samarqand,Kattaqo'rg'on,2023-10-01
+10,Andijon,Andijon,Andijon,2022-11-15
+11,Namangan,Namangan,Namangan,2023-01-20
+12,Buxoro,Buxoro,Buxoro,2025-03-01
