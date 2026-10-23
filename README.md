@@ -112,16 +112,16 @@ Ularni kassa yoniga va ko'zga tashlanadigan joylarga qo'yish foydali.
 ### 6. RFM: mijozlar segmentlari
 | Segment | Mijozlar | O'rtacha cheklar | Tushum ulushi |
 |---|---:|---:|---:|
-| Chempionlar | 24.7% | 24.1 | **57.4%** |
-| Sodiq mijozlar | 20.1% | 10.1 | 19.5% |
-| Yangi / istiqbolli | 7.8% | 2.4 | 1.8% |
-| **Xavf ostida** | 15.2% | 9.8 | **14.3%** |
-| Yo'qotilgan | 24.8% | 2.3 | 5.4% |
-| E'tibor talab | 7.4% | 2.3 | 1.7% |
+| Chempionlar | 24.8% | 24.0 | **57.5%** |
+| Sodiq mijozlar | 19.3% | 10.3 | 19.1% |
+| Yangi / istiqbolli | 8.5% | 2.5 | 2.0% |
+| **Xavf ostida** | 15.8% | 9.6 | **14.6%** |
+| Yo'qotilgan | 24.2% | 2.2 | 5.2% |
+| E'tibor talab | 7.4% | 2.3 | 1.6% |
 
 Mijozlarning chorak qismi tushumning yarmidan ko'pini beradi.
-**"Xavf ostida"** guruhi (791 kishi) ilgari faol bo'lgan, lekin o'rtacha 289 kundan beri xarid qilmagan.
-Ular tushumning 14% ini tashkil qiladi. Ularni qaytarish kampaniyasi (SMS, shaxsiy chegirma) birinchi navbatdagi vazifa.
+**"Xavf ostida"** guruhi (823 kishi) ilgari faol bo'lgan, lekin o'rtacha 288 kundan beri xarid qilmagan.
+Ular tushumning 15% ini tashkil qiladi. Ularni qaytarish kampaniyasi (SMS, shaxsiy chegirma) birinchi navbatdagi vazifa.
 
 ### 7. Kohort tahlil
 Yangi mijozlarning o'rtacha **~47%** i keyingi oyda qaytadi, 12 oydan keyin esa **~29%** i qoladi.
@@ -155,7 +155,7 @@ Aksiyalarni hamma uchun emas, faqat "xavf ostida" mijozlar uchun maqsadli qilish
 ---
 
 ## 💡 Asosiy tavsiyalar
-1. **"Xavf ostida"** segmentidagi 791 mijozni qaytarish: tushumning 14% i shu guruhda.
+1. **"Xavf ostida"** segmentidagi 823 mijozni qaytarish: tushumning 15% i shu guruhda.
 2. **Ommaviy chegirmalarni** maqsadli takliflar bilan almashtirish: hozir ular faqat marjani yeyapti.
 3. **Yuqori marjali** kategoriyalarni (ichimliklar, maishiy kimyo) ko'proq ko'rinadigan joyga qo'yish.
 4. **Juft mahsulotlarni** yonma-yon joylashtirish va to'plam aksiyalari.

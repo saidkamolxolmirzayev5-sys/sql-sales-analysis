@@ -12,8 +12,8 @@ WITH rfm AS (
 scored AS (
     SELECT
         *,
-        NTILE(5) OVER (ORDER BY recency_days DESC) AS r,
-        NTILE(5) OVER (ORDER BY frequency)         AS f
+        NTILE(5) OVER (ORDER BY recency_days DESC, customer_id) AS r,
+        NTILE(5) OVER (ORDER BY frequency, customer_id)         AS f
     FROM rfm
 ),
 segments AS (
