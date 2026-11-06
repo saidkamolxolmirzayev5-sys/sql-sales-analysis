@@ -173,5 +173,3 @@ sql-sales-analysis/
     ├── 00_schema.sql      # jadvallar, yuklash, indekslar, v_sales
     └── 01–12_*.sql        # tahlil so'rovlari
 ```
-
-Ushbu ma'lumotlar asosidagi dashboard: [powerbi-sales-dashboard](https://github.com/saidkamolxolmirzayev5-sys/powerbi-sales-dashboard)
